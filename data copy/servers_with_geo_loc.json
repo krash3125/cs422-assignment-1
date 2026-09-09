@@ -7,7 +7,9 @@
         "CONTINENT": "Africa",
         "COUNTRY": "AO",
         "SITE": "Luanda",
-        "PROVIDER": "Paratus"
+        "PROVIDER": "Paratus",
+        "lat": -8.81466,
+        "lon": 13.2302
     },
     {
         "IP/HOST": "41.110.39.130",
@@ -17,7 +19,9 @@
         "CONTINENT": "Africa",
         "COUNTRY": "DZ",
         "SITE": "Algiers",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 36.7598,
+        "lon": 3.01369
     },
     {
         "IP/HOST": "213.158.175.240",
@@ -27,7 +31,9 @@
         "CONTINENT": "Africa",
         "COUNTRY": "EG",
         "SITE": "Cairo",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 30.0383,
+        "lon": 31.2102
     },
     {
         "IP/HOST": "102.214.66.39",
@@ -37,7 +43,9 @@
         "CONTINENT": "Africa",
         "COUNTRY": "GH",
         "SITE": "Accra",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 5.60372,
+        "lon": -0.186964
     },
     {
         "IP/HOST": "102.214.66.19",
@@ -47,7 +55,9 @@
         "CONTINENT": "Africa",
         "COUNTRY": "GH",
         "SITE": "Accra",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 5.60372,
+        "lon": -0.186964
     },
     {
         "IP/HOST": "212.60.92.134",
@@ -57,7 +67,9 @@
         "CONTINENT": "Africa",
         "COUNTRY": "GM",
         "SITE": "Banjul",
-        "PROVIDER": "Pura"
+        "PROVIDER": "Pura",
+        "lat": 13.4256,
+        "lon": -16.7397
     },
     {
         "IP/HOST": "105.235.237.2",
@@ -67,17 +79,9 @@
         "CONTINENT": "Africa",
         "COUNTRY": "GQ",
         "SITE": "Bata",
-        "PROVIDER": "Guineanet"
-    },
-    {
-        "IP/HOST": "gw1.malabo.guineanet.net",
-        "PORT": "5201-5209",
-        "OPTIONS": "-R",
-        "GB/S": "",
-        "CONTINENT": "Africa",
-        "COUNTRY": "GQ",
-        "SITE": "Bata",
-        "PROVIDER": "Guine@net"
+        "PROVIDER": "Guineanet",
+        "lat": 3.75496,
+        "lon": 8.78213
     },
     {
         "IP/HOST": "speed.mymanga.pro",
@@ -87,7 +91,9 @@
         "CONTINENT": "Africa",
         "COUNTRY": "KE",
         "SITE": "Nairobi",
-        "PROVIDER": "Mymanga"
+        "PROVIDER": "Mymanga",
+        "lat": -1.2841,
+        "lon": 36.8155
     },
     {
         "IP/HOST": "speedtestfl.telecom.mu",
@@ -97,7 +103,9 @@
         "CONTINENT": "Africa",
         "COUNTRY": "MU",
         "SITE": "Floreal",
-        "PROVIDER": "Mauritius Telecom"
+        "PROVIDER": "Mauritius Telecom",
+        "lat": -20.2397,
+        "lon": 57.4722
     },
     {
         "IP/HOST": "197.227.12.18",
@@ -107,7 +115,9 @@
         "CONTINENT": "Africa",
         "COUNTRY": "MU",
         "SITE": "Floreal",
-        "PROVIDER": "Mauritius Telecom"
+        "PROVIDER": "Mauritius Telecom",
+        "lat": -20.2397,
+        "lon": 57.4722
     },
     {
         "IP/HOST": "41.210.185.162",
@@ -117,7 +127,9 @@
         "CONTINENT": "Africa",
         "COUNTRY": "UG",
         "SITE": "Kampala",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 0.321,
+        "lon": 32.5714
     },
     {
         "IP/HOST": "69.48.239.124",
@@ -127,7 +139,9 @@
         "CONTINENT": "Africa",
         "COUNTRY": "ZA",
         "SITE": "Johannesburg",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": -26.2309,
+        "lon": 28.0583
     },
     {
         "IP/HOST": "23.249.55.42",
@@ -137,7 +151,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "AE",
         "SITE": "Dubai",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 25.0734,
+        "lon": 55.2979
     },
     {
         "IP/HOST": "69.48.238.200",
@@ -147,7 +163,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "AE",
         "SITE": "Dubai",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 25.0734,
+        "lon": 55.2979
     },
     {
         "IP/HOST": "189.25.101.151",
@@ -157,7 +175,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "AE",
         "SITE": "Dubai",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 25.0734,
+        "lon": 55.2979
     },
     {
         "IP/HOST": "189.25.97.217",
@@ -167,7 +187,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "AE",
         "SITE": "Dubai",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 25.0734,
+        "lon": 55.2979
     },
     {
         "IP/HOST": "speedtest.hkg12.hk.leaseweb.net",
@@ -177,7 +199,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "HK",
         "SITE": "Hong Kong",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 22.3656,
+        "lon": 114.119
     },
     {
         "IP/HOST": "84.17.57.129",
@@ -187,7 +211,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "HK",
         "SITE": "Hong Kong",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 22.3193,
+        "lon": 114.169
     },
     {
         "IP/HOST": "23.249.58.14",
@@ -197,7 +223,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "HK",
         "SITE": "Hong Kong",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 22.3193,
+        "lon": 114.169
     },
     {
         "IP/HOST": "speedtest.tangerang2.myrepublic.net.id",
@@ -207,7 +235,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "ID",
         "SITE": "Kediri",
-        "PROVIDER": "MyRepublic"
+        "PROVIDER": "MyRepublic",
+        "lat": -6.1716,
+        "lon": 106.5265
     },
     {
         "IP/HOST": "speed.netfiber.net.il",
@@ -217,7 +247,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "IL",
         "SITE": "Jerusalem",
-        "PROVIDER": "Netfiber"
+        "PROVIDER": "Netfiber",
+        "lat": 31.7674,
+        "lon": 35.2186
     },
     {
         "IP/HOST": "speed.rimon.net.il",
@@ -227,7 +259,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "IL",
         "SITE": "Jerusalem",
-        "PROVIDER": "Rimon"
+        "PROVIDER": "Rimon",
+        "lat": 31.7674,
+        "lon": 35.2186
     },
     {
         "IP/HOST": "169.150.202.193",
@@ -237,7 +271,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "IL",
         "SITE": "Tel Aviv",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 32.0804,
+        "lon": 34.7807
     },
     {
         "IP/HOST": "49.205.75.2",
@@ -247,7 +283,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "IN",
         "SITE": "Bengaluru",
-        "PROVIDER": "ACT Fibernet"
+        "PROVIDER": "ACT Fibernet",
+        "lat": 12.9753,
+        "lon": 77.591
     },
     {
         "IP/HOST": "69.48.236.198",
@@ -257,7 +295,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "IN",
         "SITE": "Pune",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 18.5211,
+        "lon": 73.8502
     },
     {
         "IP/HOST": "23.249.60.154",
@@ -267,7 +307,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "JP",
         "SITE": "Komagome",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 35.6893,
+        "lon": 139.6899
     },
     {
         "IP/HOST": "speedtest.tyo11.jp.leaseweb.net",
@@ -277,7 +319,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "JP",
         "SITE": "Tokyo",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 35.6893,
+        "lon": 139.6899
     },
     {
         "IP/HOST": "89.187.160.1",
@@ -287,7 +331,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "JP",
         "SITE": "Tokyo",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 35.6893,
+        "lon": 139.6899
     },
     {
         "IP/HOST": "66.35.31.81",
@@ -297,7 +343,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "JP",
         "SITE": "Tokyo",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 35.6893,
+        "lon": 139.6899
     },
     {
         "IP/HOST": "coverage1.mobicom.mn",
@@ -307,7 +355,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "MN",
         "SITE": "Ulaanbaatar",
-        "PROVIDER": "Mobicom"
+        "PROVIDER": "Mobicom",
+        "lat": 47.9177,
+        "lon": 106.913
     },
     {
         "IP/HOST": "speedtest.sin1.sg.leaseweb.net",
@@ -317,7 +367,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "SG",
         "SITE": "Singapore",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 1.27998,
+        "lon": 103.842
     },
     {
         "IP/HOST": "89.187.162.1",
@@ -327,7 +379,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "SG",
         "SITE": "Singapore",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 1.35208,
+        "lon": 103.82
     },
     {
         "IP/HOST": "sgp.proof.ovh.net",
@@ -337,7 +391,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "SG",
         "SITE": "Singapore",
-        "PROVIDER": "OVH"
+        "PROVIDER": "OVH",
+        "lat": 1.27994,
+        "lon": 103.849
     },
     {
         "IP/HOST": "96.45.38.22",
@@ -347,7 +403,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "SG",
         "SITE": "Singapore",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 1.35208,
+        "lon": 103.82
     },
     {
         "IP/HOST": "176.23.128.102",
@@ -357,7 +415,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "SG",
         "SITE": "Singapore",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 1.35208,
+        "lon": 103.82
     },
     {
         "IP/HOST": "iperf.pendc.com",
@@ -367,7 +427,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "TR",
         "SITE": "Bursa",
-        "PROVIDER": "PENDC"
+        "PROVIDER": "PENDC",
+        "lat": 40.2309,
+        "lon": 29.0625
     },
     {
         "IP/HOST": "156.146.52.1",
@@ -377,7 +439,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "TR",
         "SITE": "Istanbul",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 41.0146,
+        "lon": 28.9532
     },
     {
         "IP/HOST": "69.48.237.66",
@@ -387,7 +451,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "TR",
         "SITE": "Istanbul",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 41.0146,
+        "lon": 28.9532
     },
     {
         "IP/HOST": "189.25.98.63",
@@ -397,7 +463,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "TW",
         "SITE": "Taipei",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 25.053,
+        "lon": 121.5259
     },
     {
         "IP/HOST": "speedtest.uztelecom.uz",
@@ -407,7 +475,9 @@
         "CONTINENT": "Asia",
         "COUNTRY": "UZ",
         "SITE": "Tashkent",
-        "PROVIDER": "UZ Telecom"
+        "PROVIDER": "UZ Telecom",
+        "lat": 41.2615,
+        "lon": 69.2177
     },
     {
         "IP/HOST": "185.180.12.40",
@@ -417,7 +487,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "AT",
         "SITE": "Vienna",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 48.2049,
+        "lon": 16.3662
     },
     {
         "IP/HOST": "iperf3-vie-at.alwyzon.net",
@@ -427,7 +499,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "AT",
         "SITE": "Vienna",
-        "PROVIDER": "Alwyzon"
+        "PROVIDER": "Alwyzon",
+        "lat": 48.301,
+        "lon": 16.3448
     },
     {
         "IP/HOST": "207.211.214.65",
@@ -437,7 +511,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "BE",
         "SITE": "Brussels",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 50.8534,
+        "lon": 4.347
     },
     {
         "IP/HOST": "185.3.160.57",
@@ -446,8 +522,10 @@
         "GB/S": "",
         "CONTINENT": "Europe",
         "COUNTRY": "BE",
-        "SITE": "Liège",
-        "PROVIDER": "VOO"
+        "SITE": "Li\u00e8ge",
+        "PROVIDER": "VOO",
+        "lat": 50.8476,
+        "lon": 4.35717
     },
     {
         "IP/HOST": "37.19.203.1",
@@ -457,7 +535,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "BG",
         "SITE": "Sofia",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 42.6951,
+        "lon": 23.325
     },
     {
         "IP/HOST": "speedtest.shinternet.ch",
@@ -467,7 +547,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "CH",
         "SITE": "Schaffhausen",
-        "PROVIDER": "Sasag"
+        "PROVIDER": "Sasag",
+        "lat": 47.7027,
+        "lon": 8.6676
     },
     {
         "IP/HOST": "speedtest.init7.net",
@@ -477,7 +559,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "CH",
         "SITE": "Winterthur",
-        "PROVIDER": "Init7"
+        "PROVIDER": "Init7",
+        "lat": 47.3975,
+        "lon": 8.6209
     },
     {
         "IP/HOST": "speedtest.iway.ch",
@@ -486,8 +570,10 @@
         "GB/S": "10",
         "CONTINENT": "Europe",
         "COUNTRY": "CH",
-        "SITE": "Zürich",
-        "PROVIDER": "iWay"
+        "SITE": "Z\u00fcrich",
+        "PROVIDER": "iWay",
+        "lat": 47.3952,
+        "lon": 8.4925
     },
     {
         "IP/HOST": "89.187.165.1",
@@ -496,8 +582,10 @@
         "GB/S": "2x10",
         "CONTINENT": "Europe",
         "COUNTRY": "CH",
-        "SITE": "Zürich",
-        "PROVIDER": "DATAPACKET"
+        "SITE": "Z\u00fcrich",
+        "PROVIDER": "DATAPACKET",
+        "lat": 47.3643,
+        "lon": 8.5437
     },
     {
         "IP/HOST": "t5.cscs.ch",
@@ -506,8 +594,10 @@
         "GB/S": "100",
         "CONTINENT": "Europe",
         "COUNTRY": "CH",
-        "SITE": "Zürich",
-        "PROVIDER": "CSCS"
+        "SITE": "Z\u00fcrich",
+        "PROVIDER": "CSCS",
+        "lat": 47.3188,
+        "lon": 8.5772
     },
     {
         "IP/HOST": "185.152.65.113",
@@ -517,7 +607,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "CZ",
         "SITE": "Prague",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 50.0883,
+        "lon": 14.4124
     },
     {
         "IP/HOST": "a209.speedtest.wobcom.de",
@@ -527,7 +619,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DE",
         "SITE": "Berlin",
-        "PROVIDER": "WOBCOM"
+        "PROVIDER": "WOBCOM",
+        "lat": 52.4041,
+        "lon": 10.7532
     },
     {
         "IP/HOST": "a110.speedtest.wobcom.de",
@@ -537,7 +631,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DE",
         "SITE": "Berlin",
-        "PROVIDER": "WOBCOM"
+        "PROVIDER": "WOBCOM",
+        "lat": 52.4041,
+        "lon": 10.7532
     },
     {
         "IP/HOST": "a208.speedtest.wobcom.de",
@@ -546,8 +642,10 @@
         "GB/S": "2x25",
         "CONTINENT": "Europe",
         "COUNTRY": "DE",
-        "SITE": "Düsseldorf",
-        "PROVIDER": "WOBCOM"
+        "SITE": "D\u00fcsseldorf",
+        "PROVIDER": "WOBCOM",
+        "lat": 52.4041,
+        "lon": 10.7532
     },
     {
         "IP/HOST": "178.215.228.109",
@@ -557,7 +655,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DE",
         "SITE": "Frankfurt",
-        "PROVIDER": "ESEVEN"
+        "PROVIDER": "ESEVEN",
+        "lat": 50.1169,
+        "lon": 8.6837
     },
     {
         "IP/HOST": "fra.speedtest.clouvider.net",
@@ -567,7 +667,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DE",
         "SITE": "Frankfurt",
-        "PROVIDER": "Clouvider"
+        "PROVIDER": "Clouvider",
+        "lat": 50.0971,
+        "lon": 8.5952
     },
     {
         "IP/HOST": "speedtest.ip-projects.de",
@@ -577,7 +679,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DE",
         "SITE": "Frankfurt",
-        "PROVIDER": "IP Projects"
+        "PROVIDER": "IP Projects",
+        "lat": 50.1109,
+        "lon": 8.68213
     },
     {
         "IP/HOST": "speedtest.fra1.de.leaseweb.net",
@@ -587,7 +691,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DE",
         "SITE": "Frankfurt",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 48.5296,
+        "lon": 12.1618
     },
     {
         "IP/HOST": "spd-desrv.hostkey.com",
@@ -597,7 +703,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DE",
         "SITE": "Frankfurt",
-        "PROVIDER": "HOSTKEY"
+        "PROVIDER": "HOSTKEY",
+        "lat": 50.1169,
+        "lon": 8.6837
     },
     {
         "IP/HOST": "a210.speedtest.wobcom.de",
@@ -607,7 +715,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DE",
         "SITE": "Frankfurt",
-        "PROVIDER": "WOBCOM"
+        "PROVIDER": "WOBCOM",
+        "lat": 52.4041,
+        "lon": 10.7532
     },
     {
         "IP/HOST": "a205.speedtest.wobcom.de",
@@ -617,7 +727,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DE",
         "SITE": "Frankfurt",
-        "PROVIDER": "WOBCOM"
+        "PROVIDER": "WOBCOM",
+        "lat": 52.4041,
+        "lon": 10.7532
     },
     {
         "IP/HOST": "185.102.219.93",
@@ -627,7 +739,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DE",
         "SITE": "Frankfurt",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 50.1169,
+        "lon": 8.6837
     },
     {
         "IP/HOST": "96.45.39.38",
@@ -637,7 +751,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DE",
         "SITE": "Frankfurt",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 50.1169,
+        "lon": 8.6837
     },
     {
         "IP/HOST": "speedtest.level66.services",
@@ -647,7 +763,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DE",
         "SITE": "Frankfurt",
-        "PROVIDER": "level66.network"
+        "PROVIDER": "level66.network",
+        "lat": 50.1169,
+        "lon": 8.6837
     },
     {
         "IP/HOST": "speedtest.wtnet.de",
@@ -657,7 +775,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DE",
         "SITE": "Norderstedt",
-        "PROVIDER": "wilhelm.tel"
+        "PROVIDER": "wilhelm.tel",
+        "lat": 53.4548,
+        "lon": 9.9689
     },
     {
         "IP/HOST": "speedtest.wobcom.de",
@@ -667,7 +787,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DE",
         "SITE": "Wolfsburg",
-        "PROVIDER": "WOBCOM"
+        "PROVIDER": "WOBCOM",
+        "lat": 52.4041,
+        "lon": 10.7532
     },
     {
         "IP/HOST": "a400.speedtest.wobcom.de",
@@ -677,7 +799,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DE",
         "SITE": "Wolfsburg",
-        "PROVIDER": "WOBCOM"
+        "PROVIDER": "WOBCOM",
+        "lat": 52.4041,
+        "lon": 10.7532
     },
     {
         "IP/HOST": "speedtest.hiper.dk",
@@ -687,7 +811,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DK",
         "SITE": "Copenhagen",
-        "PROVIDER": "Hiper"
+        "PROVIDER": "Hiper",
+        "lat": 54.7697,
+        "lon": 11.8761
     },
     {
         "IP/HOST": "speed1.fiberby.dk",
@@ -697,7 +823,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DK",
         "SITE": "Copenhagen",
-        "PROVIDER": "Fiberby"
+        "PROVIDER": "Fiberby",
+        "lat": 56.2639,
+        "lon": 9.50179
     },
     {
         "IP/HOST": "speed2.fiberby.dk",
@@ -707,7 +835,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "DK",
         "SITE": "Copenhagen",
-        "PROVIDER": "Fiberby"
+        "PROVIDER": "Fiberby",
+        "lat": 56.2639,
+        "lon": 9.50179
     },
     {
         "IP/HOST": "bwtest.linxtelecom.com",
@@ -717,7 +847,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "EE",
         "SITE": "Tallinn",
-        "PROVIDER": "CITIC"
+        "PROVIDER": "CITIC",
+        "lat": 59.4381,
+        "lon": 24.7369
     },
     {
         "IP/HOST": "185.93.3.50",
@@ -727,7 +859,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "ES",
         "SITE": "Madrid",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 40.4153,
+        "lon": -3.694
     },
     {
         "IP/HOST": "148.230.45.213",
@@ -737,7 +871,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "ES",
         "SITE": "Madrid",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 40.4153,
+        "lon": -3.694
     },
     {
         "IP/HOST": "spd-fisrv.hostkey.com",
@@ -747,7 +883,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "FI",
         "SITE": "Helsinki",
-        "PROVIDER": "HOSTKEY"
+        "PROVIDER": "HOSTKEY",
+        "lat": 60.1719,
+        "lon": 24.9347
     },
     {
         "IP/HOST": "speedtest.milkywan.fr",
@@ -757,7 +895,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "FR",
         "SITE": "Croissy-Beaubourg",
-        "PROVIDER": "MilkyWan"
+        "PROVIDER": "MilkyWan",
+        "lat": 48.8558,
+        "lon": 2.3494
     },
     {
         "IP/HOST": "138.199.14.66",
@@ -767,7 +907,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "FR",
         "SITE": "Marseille",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 43.2951,
+        "lon": 5.3861
     },
     {
         "IP/HOST": "185.93.2.193",
@@ -777,7 +919,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "FR",
         "SITE": "Paris",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 48.8558,
+        "lon": 2.3494
     },
     {
         "IP/HOST": "iperf3.moji.fr",
@@ -787,7 +931,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "FR",
         "SITE": "Paris",
-        "PROVIDER": "moji"
+        "PROVIDER": "moji",
+        "lat": 48.8558,
+        "lon": 2.3494
     },
     {
         "IP/HOST": "ping-90ms.online.net",
@@ -797,7 +943,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "FR",
         "SITE": "Paris",
-        "PROVIDER": "Scaleway"
+        "PROVIDER": "Scaleway",
+        "lat": 48.8558,
+        "lon": 2.3494
     },
     {
         "IP/HOST": "iperf.online.net",
@@ -807,7 +955,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "FR",
         "SITE": "Paris",
-        "PROVIDER": "Scaleway"
+        "PROVIDER": "Scaleway",
+        "lat": 48.8558,
+        "lon": 2.3494
     },
     {
         "IP/HOST": "96.45.42.156",
@@ -817,7 +967,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "FR",
         "SITE": "Paris",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 48.8558,
+        "lon": 2.3494
     },
     {
         "IP/HOST": "96.45.41.167",
@@ -827,7 +979,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "FR",
         "SITE": "Valbonne",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 43.6319,
+        "lon": 7.0043
     },
     {
         "IP/HOST": "ping.online.net",
@@ -837,7 +991,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "FR",
         "SITE": "Vitry-sur-Seine",
-        "PROVIDER": "Scaleway"
+        "PROVIDER": "Scaleway",
+        "lat": 48.8558,
+        "lon": 2.3494
     },
     {
         "IP/HOST": "iperf.as42831.net",
@@ -847,7 +1003,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "GB",
         "SITE": "London",
-        "PROVIDER": "UK Servers"
+        "PROVIDER": "UK Servers",
+        "lat": 51.5081,
+        "lon": -0.1278
     },
     {
         "IP/HOST": "speedtest.lon1.uk.leaseweb.net",
@@ -857,7 +1015,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "GB",
         "SITE": "London",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 51.5081,
+        "lon": -0.1278
     },
     {
         "IP/HOST": "speedtest.lon12.uk.leaseweb.net",
@@ -867,7 +1027,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "GB",
         "SITE": "London",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 51.5182,
+        "lon": -0.0905412
     },
     {
         "IP/HOST": "lon.speedtest.clouvider.net",
@@ -877,7 +1039,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "GB",
         "SITE": "London",
-        "PROVIDER": "Cloudvider"
+        "PROVIDER": "Cloudvider",
+        "lat": 51.5064,
+        "lon": -0.02
     },
     {
         "IP/HOST": "185.59.221.51",
@@ -887,7 +1051,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "GB",
         "SITE": "London",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 51.5081,
+        "lon": -0.1278
     },
     {
         "IP/HOST": "speedtest2.lightningfibre.net.uk",
@@ -897,7 +1063,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "GB",
         "SITE": "London",
-        "PROVIDER": "Lightning Fibre"
+        "PROVIDER": "Lightning Fibre",
+        "lat": 50.7707,
+        "lon": 0.281895
     },
     {
         "IP/HOST": "96.45.40.45",
@@ -907,7 +1075,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "GB",
         "SITE": "London",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 51.5164,
+        "lon": -0.093
     },
     {
         "IP/HOST": "speedtest.rapidswitch.com",
@@ -917,7 +1087,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "GB",
         "SITE": "Maidenhead",
-        "PROVIDER": "RapidSwitch"
+        "PROVIDER": "RapidSwitch",
+        "lat": 51.4659,
+        "lon": -0.2117
     },
     {
         "IP/HOST": "man.speedtest.clouvider.net",
@@ -927,7 +1099,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "GB",
         "SITE": "Manchester",
-        "PROVIDER": "Clouvider"
+        "PROVIDER": "Clouvider",
+        "lat": 53.4809,
+        "lon": -2.2374
     },
     {
         "IP/HOST": "169.150.252.2",
@@ -937,7 +1111,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "GR",
         "SITE": "Athens",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 37.9842,
+        "lon": 23.7353
     },
     {
         "IP/HOST": "169.150.242.129",
@@ -947,7 +1123,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "HR",
         "SITE": "Zagreb",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 45.8293,
+        "lon": 15.9793
     },
     {
         "IP/HOST": "87.249.137.8",
@@ -957,7 +1135,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "IE",
         "SITE": "Dublin",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 53.3354,
+        "lon": -6.252
     },
     {
         "IP/HOST": "spd-icsrv.hostkey.com",
@@ -967,7 +1147,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "IS",
         "SITE": "Reykjavik",
-        "PROVIDER": "HOSTKEY"
+        "PROVIDER": "HOSTKEY",
+        "lat": 64.1336,
+        "lon": -21.8934
     },
     {
         "IP/HOST": "it1.speedtest.aruba.it",
@@ -977,7 +1159,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "IT",
         "SITE": "Arezzo",
-        "PROVIDER": "Aruba.it"
+        "PROVIDER": "Aruba.it",
+        "lat": 43.4631,
+        "lon": 11.8783
     },
     {
         "IP/HOST": "84.17.59.129",
@@ -987,7 +1171,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "IT",
         "SITE": "Milan",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 45.4722,
+        "lon": 9.1922
     },
     {
         "IP/HOST": "217.61.40.96",
@@ -997,7 +1183,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "IT",
         "SITE": "Ponte San Pietro",
-        "PROVIDER": "Aruba.it"
+        "PROVIDER": "Aruba.it",
+        "lat": 45.7059,
+        "lon": 9.5872
     },
     {
         "IP/HOST": "speed-cb.dimensione.com",
@@ -1007,7 +1195,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "IT",
         "SITE": "Rome",
-        "PROVIDER": "Dimensione"
+        "PROVIDER": "Dimensione",
+        "lat": 41.5575,
+        "lon": 14.6686
     },
     {
         "IP/HOST": "speedtestlondon.telecom.mu",
@@ -1017,7 +1207,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "MU",
         "SITE": "London",
-        "PROVIDER": "Mauritius Telecom"
+        "PROVIDER": "Mauritius Telecom",
+        "lat": -20.2397,
+        "lon": 57.4722
     },
     {
         "IP/HOST": "speedtest.ams1.nl.leaseweb.net",
@@ -1027,7 +1219,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "NL",
         "SITE": "Amsterdam",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 52.3907,
+        "lon": 4.66555
     },
     {
         "IP/HOST": "speedtest.ams2.nl.leaseweb.net",
@@ -1037,7 +1231,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "NL",
         "SITE": "Amsterdam",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 52.3676,
+        "lon": 4.90414
     },
     {
         "IP/HOST": "ams.speedtest.clouvider.net",
@@ -1047,7 +1243,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "NL",
         "SITE": "Amsterdam",
-        "PROVIDER": "Clouvider"
+        "PROVIDER": "Clouvider",
+        "lat": 52.3716,
+        "lon": 4.8883
     },
     {
         "IP/HOST": "ping-ams1.online.net",
@@ -1057,7 +1255,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "NL",
         "SITE": "Amsterdam",
-        "PROVIDER": "Scaleway"
+        "PROVIDER": "Scaleway",
+        "lat": 52.3803,
+        "lon": 4.6422
     },
     {
         "IP/HOST": "a204.speedtest.wobcom.de",
@@ -1067,7 +1267,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "NL",
         "SITE": "Amsterdam",
-        "PROVIDER": "WOBCOM"
+        "PROVIDER": "WOBCOM",
+        "lat": 52.4041,
+        "lon": 10.7532
     },
     {
         "IP/HOST": "185.102.218.1",
@@ -1077,7 +1279,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "NL",
         "SITE": "Amsterdam",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 52.3716,
+        "lon": 4.8883
     },
     {
         "IP/HOST": "iperf-ams-nl.eranium.net",
@@ -1087,7 +1291,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "NL",
         "SITE": "Amsterdam",
-        "PROVIDER": "Eranium"
+        "PROVIDER": "Eranium",
+        "lat": 52.3676,
+        "lon": 4.90414
     },
     {
         "IP/HOST": "speedtest.netone.nl",
@@ -1097,7 +1303,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "NL",
         "SITE": "Amsterdam",
-        "PROVIDER": "NetOne"
+        "PROVIDER": "NetOne",
+        "lat": 52.3716,
+        "lon": 4.8883
     },
     {
         "IP/HOST": "lg.ams-nl.gigahost.no",
@@ -1107,7 +1315,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "NL",
         "SITE": "Amsterdam",
-        "PROVIDER": "Gigahost"
+        "PROVIDER": "Gigahost",
+        "lat": 59.1728,
+        "lon": 10.2221
     },
     {
         "IP/HOST": "speedtest.nl1.mirhosting.net",
@@ -1117,7 +1327,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "NL",
         "SITE": "Dronten",
-        "PROVIDER": "Mirhosting"
+        "PROVIDER": "Mirhosting",
+        "lat": 52.5378,
+        "lon": 5.6966
     },
     {
         "IP/HOST": "nl.speed.vps1.net",
@@ -1127,7 +1339,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "NL",
         "SITE": "Dronten",
-        "PROVIDER": "vps1"
+        "PROVIDER": "vps1",
+        "lat": 52.5347,
+        "lon": 5.72181
     },
     {
         "IP/HOST": "iperf1.surfwireless.nl",
@@ -1137,7 +1351,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "NL",
         "SITE": "Lelystad",
-        "PROVIDER": "SURFnet"
+        "PROVIDER": "SURFnet",
+        "lat": 52.0907,
+        "lon": 5.12142
     },
     {
         "IP/HOST": "iperf.worldstream.nl",
@@ -1147,7 +1363,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "NL",
         "SITE": "Naaldwijk",
-        "PROVIDER": "Worldstream"
+        "PROVIDER": "Worldstream",
+        "lat": 51.9968,
+        "lon": 4.2057
     },
     {
         "IP/HOST": "lg.gigahost.no",
@@ -1157,17 +1375,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "NO",
         "SITE": "Sandefjord",
-        "PROVIDER": "Gigahost"
-    },
-    {
-        "IP/HOST": "speedsrv.multinet24.pl",
-        "PORT": "5301-5310",
-        "OPTIONS": "-R",
-        "GB/S": "1",
-        "CONTINENT": "Europe",
-        "COUNTRY": "PL",
-        "SITE": "Debica",
-        "PROVIDER": "Multinet24"
+        "PROVIDER": "Gigahost",
+        "lat": 59.1728,
+        "lon": 10.2221
     },
     {
         "IP/HOST": "185.246.208.67",
@@ -1177,7 +1387,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "PL",
         "SITE": "Warsaw",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 52.2299,
+        "lon": 21.0093
     },
     {
         "IP/HOST": "109.61.94.65",
@@ -1187,7 +1399,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "PT",
         "SITE": "Lisbon",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 38.7294,
+        "lon": -9.1538
     },
     {
         "IP/HOST": "185.102.217.170",
@@ -1197,7 +1411,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "RO",
         "SITE": "Bucharest",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 44.4291,
+        "lon": 26.1006
     },
     {
         "IP/HOST": "speedtest1.sox.rs",
@@ -1207,7 +1423,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "RS",
         "SITE": "Belgrade",
-        "PROVIDER": "SOX"
+        "PROVIDER": "SOX",
+        "lat": 44.8125,
+        "lon": 20.4612
     },
     {
         "IP/HOST": "iperf.fegis.nu",
@@ -1217,7 +1435,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "SE",
         "SITE": "Alvsjo",
-        "PROVIDER": "Hostup"
+        "PROVIDER": "Hostup",
+        "lat": 58.5019,
+        "lon": 13.1585
     },
     {
         "IP/HOST": "speedtest.kamel.network",
@@ -1227,7 +1447,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "SE",
         "SITE": "Kista",
-        "PROVIDER": "Kamel Networks"
+        "PROVIDER": "Kamel Networks",
+        "lat": 59.2387,
+        "lon": 18.2266
     },
     {
         "IP/HOST": "185.76.9.135",
@@ -1237,7 +1459,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "SE",
         "SITE": "Stockholm",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 59.3287,
+        "lon": 18.0717
     },
     {
         "IP/HOST": "156.146.40.65",
@@ -1247,7 +1471,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "SK",
         "SITE": "Bratislava",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 48.1504,
+        "lon": 17.1081
     },
     {
         "IP/HOST": "37.19.218.65",
@@ -1257,7 +1483,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "UA",
         "SITE": "Kyiv",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 50.458,
+        "lon": 30.5303
     },
     {
         "IP/HOST": "speed.cosmonova.net",
@@ -1267,7 +1495,9 @@
         "CONTINENT": "Europe",
         "COUNTRY": "UA",
         "SITE": "Kyiv",
-        "PROVIDER": "Cosmonova"
+        "PROVIDER": "Cosmonova",
+        "lat": 50.458,
+        "lon": 30.5303
     },
     {
         "IP/HOST": "148.230.60.200",
@@ -1277,7 +1507,9 @@
         "CONTINENT": "Latin America",
         "COUNTRY": "BR",
         "SITE": "Sao Paulo",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": -23.5475,
+        "lon": -46.6361
     },
     {
         "IP/HOST": "138.199.4.1",
@@ -1286,8 +1518,10 @@
         "GB/S": "2x10",
         "CONTINENT": "Latin America",
         "COUNTRY": "BR",
-        "SITE": "São Paulo",
-        "PROVIDER": "DATAPACKET"
+        "SITE": "S\u00e3o Paulo",
+        "PROVIDER": "DATAPACKET",
+        "lat": -23.5475,
+        "lon": -46.6361
     },
     {
         "IP/HOST": "79.127.209.1",
@@ -1297,7 +1531,9 @@
         "CONTINENT": "Latin America",
         "COUNTRY": "CL",
         "SITE": "Santiago",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": -33.4521,
+        "lon": -70.6536
     },
     {
         "IP/HOST": "156.146.53.53",
@@ -1307,7 +1543,9 @@
         "CONTINENT": "Latin America",
         "COUNTRY": "CR",
         "SITE": "San Jose",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 37.3388,
+        "lon": -121.8916
     },
     {
         "IP/HOST": "speedtest.masnet.ec",
@@ -1317,7 +1555,9 @@
         "CONTINENT": "Latin America",
         "COUNTRY": "EC",
         "SITE": "Santa Ana",
-        "PROVIDER": "MásNet"
+        "PROVIDER": "M\u00e1sNet",
+        "lat": -1.2043,
+        "lon": -80.3717
     },
     {
         "IP/HOST": "speedtest1.flowjamaica.com",
@@ -1327,7 +1567,9 @@
         "CONTINENT": "Latin America",
         "COUNTRY": "JM",
         "SITE": "Portmore",
-        "PROVIDER": "Flow"
+        "PROVIDER": "Flow",
+        "lat": 17.9697,
+        "lon": -77.6028
     },
     {
         "IP/HOST": "121.127.43.65",
@@ -1336,8 +1578,10 @@
         "GB/S": "2x10",
         "CONTINENT": "Latin America",
         "COUNTRY": "MX",
-        "SITE": "Querétaro",
-        "PROVIDER": "DATAPACKET"
+        "SITE": "Quer\u00e9taro",
+        "PROVIDER": "DATAPACKET",
+        "lat": 15.834,
+        "lon": -92.7557
     },
     {
         "IP/HOST": "speedtest1.cwpanama.net",
@@ -1346,8 +1590,10 @@
         "GB/S": "1",
         "CONTINENT": "Latin America",
         "COUNTRY": "PA",
-        "SITE": "Colón",
-        "PROVIDER": "CW Panama"
+        "SITE": "Col\u00f3n",
+        "PROVIDER": "CW Panama",
+        "lat": 8.9948,
+        "lon": -79.523
     },
     {
         "IP/HOST": "speedtest6.cwpanama.net",
@@ -1356,8 +1602,10 @@
         "GB/S": "1",
         "CONTINENT": "Latin America",
         "COUNTRY": "PA",
-        "SITE": "Panamá",
-        "PROVIDER": "CW Panama"
+        "SITE": "Panam\u00e1",
+        "PROVIDER": "CW Panama",
+        "lat": 8.9948,
+        "lon": -79.523
     },
     {
         "IP/HOST": "speedtest.mtl2.ca.leaseweb.net",
@@ -1367,7 +1615,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "CA",
         "SITE": "Montreal",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 45.5019,
+        "lon": -73.5674
     },
     {
         "IP/HOST": "speedtest.goco.ca",
@@ -1377,7 +1627,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "CA",
         "SITE": "Montreal",
-        "PROVIDER": "TELUS"
+        "PROVIDER": "TELUS",
+        "lat": 45.4977,
+        "lon": -73.5709
     },
     {
         "IP/HOST": "173.243.131.29",
@@ -1387,7 +1639,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "CA",
         "SITE": "Ottawa",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 45.413,
+        "lon": -75.7011
     },
     {
         "IP/HOST": "138.199.57.129",
@@ -1397,7 +1651,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "CA",
         "SITE": "Toronto",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 43.709,
+        "lon": -79.4057
     },
     {
         "IP/HOST": "96.45.43.6",
@@ -1407,7 +1663,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "CA",
         "SITE": "Toronto",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 43.709,
+        "lon": -79.4057
     },
     {
         "IP/HOST": "204.155.243.172",
@@ -1417,7 +1675,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "CA",
         "SITE": "Toronto",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 43.709,
+        "lon": -79.4057
     },
     {
         "IP/HOST": "66.35.30.9",
@@ -1427,7 +1687,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "CA",
         "SITE": "Vancouver",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 49.2476,
+        "lon": -123.1234
     },
     {
         "IP/HOST": "speed.couch.ca",
@@ -1437,7 +1699,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "CA",
         "SITE": "Victoria",
-        "PROVIDER": "couch.ca"
+        "PROVIDER": "couch.ca",
+        "lat": 50.7033,
+        "lon": -119.2683
     },
     {
         "IP/HOST": "yyc-speedtest.xplore.ca",
@@ -1447,7 +1711,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "CA",
         "SITE": "Woodstock",
-        "PROVIDER": "Xplore"
+        "PROVIDER": "Xplore",
+        "lat": 51.053,
+        "lon": -114.1361
     },
     {
         "IP/HOST": "ash.speedtest.clouvider.net",
@@ -1457,7 +1723,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Ashburn",
-        "PROVIDER": "Clouvider"
+        "PROVIDER": "Clouvider",
+        "lat": 39.018,
+        "lon": -77.539
     },
     {
         "IP/HOST": "37.19.206.20",
@@ -1467,7 +1735,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Ashburn",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 39.0469,
+        "lon": -77.4903
     },
     {
         "IP/HOST": "66.35.22.79",
@@ -1477,7 +1747,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Ashburn",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 39.0469,
+        "lon": -77.4903
     },
     {
         "IP/HOST": "atl.speedtest.clouvider.net",
@@ -1487,7 +1759,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Atlanta",
-        "PROVIDER": "Clouvider"
+        "PROVIDER": "Clouvider",
+        "lat": 33.7485,
+        "lon": -84.3871
     },
     {
         "IP/HOST": "185.152.66.67",
@@ -1497,7 +1771,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Atlanta",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 33.7485,
+        "lon": -84.3871
     },
     {
         "IP/HOST": "109.61.86.65",
@@ -1507,7 +1783,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Boston",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 42.3602,
+        "lon": -71.0594
     },
     {
         "IP/HOST": "speedtest.chi11.us.leaseweb.net",
@@ -1517,7 +1795,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Chicago",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 41.874,
+        "lon": -88.0038
     },
     {
         "IP/HOST": "185.93.1.65",
@@ -1527,7 +1807,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Chicago",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 41.8483,
+        "lon": -87.6517
     },
     {
         "IP/HOST": "chi.speedtest.clouvider.net",
@@ -1537,7 +1819,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Chicago",
-        "PROVIDER": "Clouvider"
+        "PROVIDER": "Clouvider",
+        "lat": 41.871,
+        "lon": -87.6289
     },
     {
         "IP/HOST": "speedtest.dal13.us.leaseweb.net",
@@ -1547,7 +1831,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Dallas",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 32.7908,
+        "lon": -96.8336
     },
     {
         "IP/HOST": "dal.speedtest.clouvider.net",
@@ -1557,7 +1843,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Dallas",
-        "PROVIDER": "Clouvider"
+        "PROVIDER": "Clouvider",
+        "lat": 32.7908,
+        "lon": -96.8336
     },
     {
         "IP/HOST": "89.187.164.1",
@@ -1567,7 +1855,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Dallas",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 32.7797,
+        "lon": -96.8022
     },
     {
         "IP/HOST": "dfw.speedtest.is.cc",
@@ -1577,7 +1867,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Dallas",
-        "PROVIDER": "InterServer.net"
+        "PROVIDER": "InterServer.net",
+        "lat": 40.7862,
+        "lon": -74.0743
     },
     {
         "IP/HOST": "66.35.27.207",
@@ -1587,7 +1879,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Dallas",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 32.7797,
+        "lon": -96.8022
     },
     {
         "IP/HOST": "37.19.216.1",
@@ -1597,7 +1891,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Houston",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 29.7646,
+        "lon": -95.3657
     },
     {
         "IP/HOST": "speedtest.nocix.net",
@@ -1607,7 +1903,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Kansas City",
-        "PROVIDER": "NOCIX"
+        "PROVIDER": "NOCIX",
+        "lat": 39.1027,
+        "lon": -94.5778
     },
     {
         "IP/HOST": "la.speedtest.clouvider.net",
@@ -1617,7 +1915,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Los Angeles",
-        "PROVIDER": "Clouvider"
+        "PROVIDER": "Clouvider",
+        "lat": 34.0609,
+        "lon": -118.2414
     },
     {
         "IP/HOST": "speedtest.lax12.us.leaseweb.net",
@@ -1627,7 +1927,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Los Angeles",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 32.7908,
+        "lon": -96.8336
     },
     {
         "IP/HOST": "185.152.67.2",
@@ -1637,7 +1939,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Los Angeles",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 34.0544,
+        "lon": -118.244
     },
     {
         "IP/HOST": "speedtest.mia11.us.leaseweb.net",
@@ -1647,7 +1951,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Miami",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 25.7701,
+        "lon": -80.1928
     },
     {
         "IP/HOST": "195.181.162.195",
@@ -1657,7 +1963,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Miami",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 25.7701,
+        "lon": -80.1928
     },
     {
         "IP/HOST": "23.249.54.234",
@@ -1667,7 +1975,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Miami",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 25.7701,
+        "lon": -80.1928
     },
     {
         "IP/HOST": "spd-uswb.hostkey.com",
@@ -1677,7 +1987,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "New York",
-        "PROVIDER": "HOSTKEY"
+        "PROVIDER": "HOSTKEY",
+        "lat": 40.7126,
+        "lon": -74.0066
     },
     {
         "IP/HOST": "185.59.223.8",
@@ -1687,7 +1999,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "New York",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 40.7126,
+        "lon": -74.0066
     },
     {
         "IP/HOST": "speedtest.nyc1.us.leaseweb.net",
@@ -1697,7 +2011,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "New York City",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 40.7126,
+        "lon": -74.0066
     },
     {
         "IP/HOST": "speedtest.phx1.us.leaseweb.net",
@@ -1707,7 +2023,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Phoenix",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 33.5111,
+        "lon": -111.9075
     },
     {
         "IP/HOST": "phx.speedtest.clouvider.net",
@@ -1717,7 +2035,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Phoenix",
-        "PROVIDER": "Clouvider"
+        "PROVIDER": "Clouvider",
+        "lat": 33.4413,
+        "lon": -112.0421
     },
     {
         "IP/HOST": "209.40.123.215",
@@ -1727,7 +2047,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Plano",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 32.7797,
+        "lon": -96.8022
     },
     {
         "IP/HOST": "speedtest.xmission.com",
@@ -1737,7 +2059,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Salt Lake",
-        "PROVIDER": "XMISSION"
+        "PROVIDER": "XMISSION",
+        "lat": 39.321,
+        "lon": -111.094
     },
     {
         "IP/HOST": "speedtest.sfo12.us.leaseweb.net",
@@ -1747,7 +2071,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "San Francisco",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 37.3388,
+        "lon": -121.8916
     },
     {
         "IP/HOST": "66.35.20.123",
@@ -1757,7 +2083,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "San Jose",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 37.3388,
+        "lon": -121.8916
     },
     {
         "IP/HOST": "148.230.59.38",
@@ -1767,7 +2095,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "San Jose",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": 37.3388,
+        "lon": -121.8916
     },
     {
         "IP/HOST": "speedtest.sea11.us.leaseweb.net",
@@ -1777,7 +2107,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Seattle",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 47.6109,
+        "lon": -122.3303
     },
     {
         "IP/HOST": "84.17.41.11",
@@ -1787,7 +2119,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Seattle",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": 47.6109,
+        "lon": -122.3303
     },
     {
         "IP/HOST": "speedtest.wdc2.us.leaseweb.net",
@@ -1797,7 +2131,9 @@
         "CONTINENT": "North America",
         "COUNTRY": "US",
         "SITE": "Washington",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": 38.7493,
+        "lon": -77.4719
     },
     {
         "IP/HOST": "speedtest.syd12.au.leaseweb.net",
@@ -1807,7 +2143,9 @@
         "CONTINENT": "Oceania",
         "COUNTRY": "AU",
         "SITE": "Sydney",
-        "PROVIDER": "LeaseWeb"
+        "PROVIDER": "LeaseWeb",
+        "lat": -33.8229,
+        "lon": 151.1886
     },
     {
         "IP/HOST": "143.244.63.144",
@@ -1817,7 +2155,9 @@
         "CONTINENT": "Oceania",
         "COUNTRY": "AU",
         "SITE": "Sydney",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": -33.8672,
+        "lon": 151.1997
     },
     {
         "IP/HOST": "syd.proof.ovh.net",
@@ -1827,7 +2167,9 @@
         "CONTINENT": "Oceania",
         "COUNTRY": "AU",
         "SITE": "Sydney",
-        "PROVIDER": "OVH"
+        "PROVIDER": "OVH",
+        "lat": -33.8672,
+        "lon": 151.1997
     },
     {
         "IP/HOST": "96.45.44.87",
@@ -1837,7 +2179,9 @@
         "CONTINENT": "Oceania",
         "COUNTRY": "AU",
         "SITE": "Sydney",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": -33.8672,
+        "lon": 151.1997
     },
     {
         "IP/HOST": "speedtest.lagoon.nc",
@@ -1847,7 +2191,9 @@
         "CONTINENT": "Oceania",
         "COUNTRY": "NC",
         "SITE": "Noumea",
-        "PROVIDER": "Lagoon"
+        "PROVIDER": "Lagoon",
+        "lat": -22.2665,
+        "lon": 166.4742
     },
     {
         "IP/HOST": "akl.linetest.nz",
@@ -1857,7 +2203,9 @@
         "CONTINENT": "Oceania",
         "COUNTRY": "NZ",
         "SITE": "Auckland",
-        "PROVIDER": "2Degrees"
+        "PROVIDER": "2Degrees",
+        "lat": -37.3657,
+        "lon": 175.6716
     },
     {
         "IP/HOST": "72.1.86.46",
@@ -1867,7 +2215,9 @@
         "CONTINENT": "Oceania",
         "COUNTRY": "NZ",
         "SITE": "Auckland",
-        "PROVIDER": "FortiSASE"
+        "PROVIDER": "FortiSASE",
+        "lat": -36.8504,
+        "lon": 174.7675
     },
     {
         "IP/HOST": "chch.linetest.nz",
@@ -1877,7 +2227,9 @@
         "CONTINENT": "Oceania",
         "COUNTRY": "NZ",
         "SITE": "Christchurch",
-        "PROVIDER": "2Degrees"
+        "PROVIDER": "2Degrees",
+        "lat": -37.3657,
+        "lon": 175.6716
     },
     {
         "IP/HOST": "154.81.51.4",
@@ -1887,7 +2239,9 @@
         "CONTINENT": "Oceania",
         "COUNTRY": "PG",
         "SITE": "Port Moresby",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": -33.8688,
+        "lon": 151.209
     },
     {
         "IP/HOST": "103.146.200.98",
@@ -1897,6 +2251,8 @@
         "CONTINENT": "Oceania",
         "COUNTRY": "PG",
         "SITE": "Port Moresby",
-        "PROVIDER": "DATAPACKET"
+        "PROVIDER": "DATAPACKET",
+        "lat": -9.43529,
+        "lon": 147.18
     }
 ]
