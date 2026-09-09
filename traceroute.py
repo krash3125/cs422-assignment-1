@@ -1,12 +1,10 @@
 import json
 import os
 import subprocess
-import time
-import socket
 import random
 
 path = os.path.join(os.path.dirname(__file__), 'listed_iperf3_servers.json')
-output_path = os.path.join(os.path.dirname(__file__), 'iperf3_results.json')
+output_path = os.path.join(os.path.dirname(__file__), 'traceroute_results.json')
 
 
 with open(path, 'r', encoding='utf-8') as file:
@@ -20,9 +18,11 @@ with open(path, 'r', encoding='utf-8') as file:
        print("----------------------------------------")
        print(f"Testing: {server['SITE']}, {server['CONTINENT']}")
        try:
-        result = subprocess.run(['traceroute', '-w', '1', '-n', server["IP/HOST"]], capture_output=True, text=True, check=True)
+        result = subprocess.run(['traceroute', '-w', '1', '-n', '-m', '32', server["IP/HOST"]], capture_output=True, text=True, check=True, timeout=100)
         filtered = result.stdout.splitlines()
-        print(filtered)
+        
+        last_line = filtered[-1].split() if filtered else []
+
         chart_data[server['IP/HOST']] = None
         current_hop = None
     
@@ -41,29 +41,20 @@ with open(path, 'r', encoding='utf-8') as file:
                     pass
                 else:
                     if current_hop is not None and current_latencies:
-                        avg_latency = round(
-                            sum(current_latencies) / len(current_latencies), 3
-                        )
-                        filtered_results.append(
-                            (current_hop, current_ip, avg_latency)
-                        )
+                        avg_latency = round(sum(current_latencies) / len(current_latencies), 3)
+                        filtered_results.append((current_hop, current_ip, avg_latency))
 
                     current_hop = split_line[0]
-                    current_ip = split_line[1]
+                    current_ip = next((tok for tok in split_line[1:] if tok != "*"), "*")
                     current_latencies = []
-
 
             for j, part in enumerate(split_line):
                 if part == "ms" and j > 0:
                     current_latencies.append(float(split_line[j - 1]))
 
         if current_hop is not None and current_latencies:
-            avg_latency = round(
-                sum(current_latencies) / len(current_latencies), 3
-            )
-            filtered_results.append(
-                (current_hop, current_ip, avg_latency)
-            )
+            avg_latency = round(sum(current_latencies) / len(current_latencies), 3)
+            filtered_results.append((current_hop, current_ip, avg_latency))
         
         chart_line = []
         
@@ -74,10 +65,12 @@ with open(path, 'r', encoding='utf-8') as file:
             chart_line.append((line[0], line[1], round(stacked_latency, 3), line[2]))
         
         chart_data[server['IP/HOST']] = chart_line
+        if not (len(last_line) > 1 and "ms" in last_line):
+            print(f"Non-responsive: {server['SITE']}, {server['CONTINENT']} (never reached destination)")
+            continue
         
-        print(chart_data)
-       except (subprocess.CalledProcessError, FileNotFoundError) as e:
-        print(f"Error {server['SITE']}, {server['CONTINENT']}: {e}")
+       except (subprocess.CalledProcessError, subprocess.TimeoutExpired, FileNotFoundError) as e:
+        print(f"Non-responsive: {server['SITE']}, {server['CONTINENT']}: {e}")
         continue
         
 
