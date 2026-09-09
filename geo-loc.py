@@ -38,12 +38,12 @@ with open(path, "r", encoding="utf-8") as file:
         coordinates = get_coordinates(server["IP/HOST"])
         count += 1
         if coordinates:
-            print(f"{server["IP/HOST"]} ({coordinates["lat"]}, {coordinates["lon"]})")
+            print(f"{server['IP/HOST']} ({coordinates['lat']}, {coordinates['lon']})")
             results.append(
                 {**server, "lat": coordinates["lat"], "lon": coordinates["lon"]}
             )
         else:
-            print(f"{server["IP/HOST"]} (None)")
+            print(f"{server['IP/HOST']} (None)")
 
 
 with open(output_path, "w", encoding="utf-8") as output_file:
